@@ -1,2 +1,6 @@
-/Quadratic Equation Solver/.idea
-/Quadratic Equation Solver/venv
+/*/.idea
+/*/venv
+/*/__pycache__
+/*/.pytest_cache
+/*/.coverage
+/*/htmlcov
